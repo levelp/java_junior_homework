@@ -4,6 +4,7 @@
 ---
 ### Java
 ### Разработка
+* [Неплохая книга по программной инженерии от СПбГУ](http://www.intuit.ru/studies/courses/497/353/info)
 ### Алгоритмы
 * Кормен Т., Лейзерстон Ч., Ривест Р. Алгоритмы: построение и анализ, Пер. с англ. – М.: МЦНМО, 2000.
 * [Кнут Дональд, Искусство программирования (The Art of Computer Programming)](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
@@ -34,6 +35,7 @@
 
 Инструменты разработчика
 ---
+---
 ## JDK
 * [Скачать Java SE](http://www.oracle.com/technetwork/java/javase/downloads)
 * [Java 8 Documentation](https://docs.oracle.com/javase/8/docs/api/)
@@ -46,7 +48,7 @@
 
 ## Системы контроля версий
 * [Системы контроля версия (общие сведения)](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8)
-* [о системах управления версиями]( https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8)
+* [О системах управления версиями]( https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8)
 * [Зачем нужны системы контроля версий](http://embedders.org/content/zachem-nuzhny-sistemy-kontrolya-versii-tipa-svn )
 
 ## Git
@@ -62,7 +64,7 @@
 
 ## Модульное тестирование и JUnit
 * [Модульное тестирование](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
-* [Разработка через тестирование](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D1%82%D0%B5%D1%81%D$
+* [Разработка через тестирование](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
 
 
 ## Методологии разработки
@@ -74,13 +76,24 @@
 * **Книга** [Мифический человеко-месяц или Как создаются программные системы](https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%BE-%D0%BC%D0%B5%D1%81%D1%8F%D1%86)
 
 ## Системы сборки
-* [структура каталогов проекта на Maven](https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html)
+* [Структура каталогов проекта на Maven](https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html)
 * [Документация по Maven](https://maven.apache.org/guides/index.html)
 * [Автоматизация сборки](https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8)
 * [Maven](https://ru.wikipedia.org/wiki/Apache_Maven)
 * [Ant](https://ru.wikipedia.org/wiki/Apache_Ant)
 * [Gradle](https://ru.wikipedia.org/wiki/Gradle)
 
+## DB, JDBC, JPA, Hibernate
+* [JPA](https://ru.wikipedia.org/wiki/Java_Persistence_API)
+* [JDBC](https://ru.wikipedia.org/wiki/Java_Database_Connectivity)
+* [Hibernate](https://ru.wikipedia.org/wiki/Hibernate_(%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0))
+* [Hibernate Getting Started, Dicumentation, etc](http://hibernate.org/orm/documentation/5.0/)
+* [Вопросы и ответы про hibernate](https://habrahabr.ru/post/265061/)
+* [Hibernate Lifecycle](http://howtodoinjava.com/hibernate/hibernate-entity-persistence-lifecycle-states/)
+* [Hibernate Many-To-Many](http://howtodoinjava.com/hibernate/hibernate-many-to-many-mapping-using-annotations/)
+* [Hibernate Lazy Loading](http://howtodoinjava.com/hibernate/lazy-loading-in-hibernate/)
+* [Hibernate connection pool с c3p0](http://howtodoinjava.com/hibernate/hibernate-c3p0-connection-pool-configuration-tutorial/)
+* [Кратко о представлениях многие-ко-многим](http://www.intuit.ru/studies/courses/1041/218/lecture/27271)
 
 
 Head Hunting (Career)
